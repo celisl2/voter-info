@@ -22,7 +22,10 @@
   "homepage": "https://github.com/celisl2/voter-info#readme",
   "dependencies": {
     "autoprefixer": "^10.2.5",
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
+    "isomorphic-unfetch": "^3.1.0",
     "postcss": "^8.2.10",
     "postcss-cli": "^8.3.1",
     "pug": "^3.0.2",
