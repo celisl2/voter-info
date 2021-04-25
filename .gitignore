@@ -1,6 +1,7 @@
 .env
 .env.test
 .npm
+.gititnore
 
 .DS_Store
 

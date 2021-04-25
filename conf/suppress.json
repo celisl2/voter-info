@@ -1,0 +1,2067 @@
+{
+    "states": {
+        "AZ": {
+            "suppression": [
+                {
+                    "bill_id": "AZ HB 2358",
+                    
+                    "subject": "Purges"
+                },
+                {
+                    "bill_id": "AZ HB 2369",
+                    
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "AZ HB 2370",
+                    
+                    "subject": "Polling places"
+                },
+                {
+                    "bill_id": "AZ HB 2560",
+                    
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "AZ HB 2701",
+                    
+                    "subject": "Absentee voting;  Voter ID; Voter Registration"
+                },
+                {
+                    "bill_id": "AZ HB 2720",
+                    
+                    "subject": "Other: presidential electors"
+                },
+                {
+                    "bill_id": "AZ HB 2722",
+                    
+                    "subject": "Polling places"
+                },
+                {
+                    "bill_id": "AZ HB 2792",
+                    
+                    "subject": "Absentee voting",
+                    "status":"Moving", "notes": "Add voter ID requirements to the mail ballot process, restrict assistance in returning ballots, bar election officials from affirmatively mailing out ballot applications, and limit or eliminate mail ballot drop boxes."
+                },
+                {
+                    "bill_id": "AZ HB 2793",
+                    
+                    "subject": "Automatic voter registration"
+                },
+                {
+                    "bill_id": "AZ HB 2798",
+                    
+                    "subject": "Absentee voting; Voter ID"
+                },
+                {
+                    "bill_id": "AZ HB 2800",
+                    
+                    "subject": "Other"
+                },
+                {
+                    "bill_id": "AZ HB 2811",
+                    
+                    "subject": "Election day registration",
+                    "notes": "Limits or bans Election Day registration."
+                },
+                {
+                    "bill_id": "AZ HB 2826",
+                    
+                    "subject": "Other"
+                },
+                {
+                    "bill_id": "AZ HB 2875",
+                    
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "AZ SB 1003",
+                    
+                    "subject": "Absentee voting",
+                    "status":"Moving", "notes": "Add voter ID requirements to the mail ballot process, restrict assistance in returning ballots, bar election officials from affirmatively mailing out ballot applications, and limit or eliminate mail ballot drop boxes."
+                },
+                {
+                    "bill_id": "AZ SB 1069",
+                    
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "AZ SB 1358",
+                    
+                    "subject": "Voter Registration"
+                },
+                {
+                    "bill_id": "AZ SB 1485",
+                    
+                    "subject": "Absentee voting",
+                    "status":"Moving", "notes": "Add voter ID requirements to the mail ballot process, restrict assistance in returning ballots, bar election officials from affirmatively mailing out ballot applications, and limit or eliminate mail ballot drop boxes."
+                },
+                {
+                    "bill_id": "AZ SB 1503",
+                    
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "AZ SB 1593",
+                    
+                    "subject": "Absentee voting; Provisional ballots"
+                },
+                {
+                    "bill_id": "AZ SB 1667",
+                    
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "AZ SB 1678",
+                    
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "AZ SB 1713",
+                    
+                    "subject": "Absentee voting",
+                    "status":"Moving", "notes": "Add voter ID requirements to the mail ballot process, restrict assistance in returning ballots, bar election officials from affirmatively mailing out ballot applications, and limit or eliminate mail ballot drop boxes."
+                }
+            ],
+            "summary": [
+                "Four Arizona bills seek to make absentee voting more difficult by prohibiting election officials from sending mail ballots to voters without an affirmative request, making it easier to remove voters from the permanent early voting list, requiring further identification information on absentee ballots, and limiting the time that voters have to supply a signature for their mail ballot they had forgotten to sign (AZ SB 1003, AZ SB 1485, AZ SB 1713, AZ HB 2792).",
+                "Another bill would prevent local election officials from conducting voter registration drives on nongovernment property (AZ SB 1358).",
+                "Two bills seek to prohibit policies that the state does not even have — automatic voter registration and Election Day registration — in a seeming effort to create a conflict with the federal For the People Act (AZ HB 2793, AZ HB 2811)."
+            ]
+        },
+        "AK": {
+            "suppression": [
+                {
+                    "bill_id": "AK HB 96",
+                    "state": "AK",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "AK SB 39",
+                    "state": "AK",
+                    "subject": "Absentee voting; Automatic voter registration"
+                },
+                {
+                    "bill_id": "AK HB 23",
+                    "state": "AK",
+                    "subject": "Automatic voter registration"
+                },
+                {
+                    "bill_id": "AK HB 66",
+                    "state": "AK",
+                    "subject": "Voter ID"
+                }
+            ]
+        },
+        "AL": {
+            "suppression": [
+                {
+                    "bill_id": "AL HB 285",
+                    "state": "AL",
+                    "subject": "Disability access"
+                },
+                {
+                    "bill_id": "AL HB 314",
+                    "state": "AL",
+                    "subject": "Purges"
+                },
+                {
+                    "bill_id": "AL HB 396",
+                    "state": "AL",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "AL HB 399",
+                    "state": "AL",
+                    "subject": "Absentee voting; Voter ID"
+                },
+                {
+                    "bill_id": "AL HB 538",
+                    "state": "AL",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "AL SB 200",
+                    "state": "AL",
+                    "subject": "Purges"
+                },
+                {
+                    "bill_id": "AL SB 235",
+                    "state": "AL",
+                    "subject": "Disability access"
+                },
+                {
+                    "bill_id": "AL SB 29",
+                    "state": "AL",
+                    "subject": "Purges"
+                }
+            ]
+        },
+        "AR": {
+            "suppression": [
+                {
+                    "bill_id": "AR HB 1112",
+                    "state": "AR",
+                    "subject": "Provisional ballots",
+                    "status": "Passed",
+                    "notes": "Eliminates option to allow voters who arrived at their polling place without valid identification to vote a provisional ballot if they signed a sworn statement attesting that they were registered to vote. It also requires voters who show up without identification to return to the county clerk’s office by the Monday following the election with qualifying identification in order to have their vote counted."
+                },
+                {
+                    "bill_id": "AR HB 1244",
+                    "state": "AR",
+                    "subject": "Voter ID",
+                    "status": "Passed",
+                    "notes": "Establishes that non-photo IDs are no longer valid for voter identification."
+                },
+                {
+                    "bill_id": "AR HB 1615",
+                    "state": "AR",
+                    "subject": "Polling places"
+                },
+                {
+                    "bill_id": "AR HB 1715",
+                    "state": "AR",
+                    "subject": "Absentee ballots",
+                    "status": "Moving", "notes": "Add voter ID requirements to the mail ballot process, restrict assistance in returning ballots, bar election officials from affirmatively mailing out ballot applications, and limit or eliminate mail ballot drop boxes."
+                },
+                {
+                    "bill_id": "AR SB 485",
+                    "state": "AR",
+                    "subject": "Early voting"
+                }
+            ]
+        },
+        "CA": {
+            "suppression": [
+                {
+                    "bill_id": "CA SB 511",
+                    "state": "CA",
+                    "subject": "Purges"
+                },
+                {
+                    "bill_id": "CA SB 597",
+                    "state": "CA",
+                    "subject": "Absentee voting",
+                    "status":"Moving", "notes": "Add voter ID requirements to the mail ballot process, restrict assistance in returning ballots, bar election officials from affirmatively mailing out ballot applications, and limit or eliminate mail ballot drop boxes."
+                }
+            ]
+        },
+        "CO": {
+            "suppression": [
+                {
+                    "bill_id": "CO HB 1086",
+                    "state": "CO",
+                    "subject": "Voter registration"
+                },
+                {
+                    "bill_id": "CO SB 10",
+                    "state": "CO",
+                    "subject": "Disability Access"
+                },
+                {
+                    "bill_id": "CO SB 7",
+                    "state": "CO",
+                    "subject": "Absentee voting"
+                }
+            ]
+        },
+        "CT": {
+            "suppression": [
+                {
+                    "bill_id": "CT HB 5008",
+                    "state": "CT",
+                    "subject": "Election day registration"
+                },
+                {
+                    "bill_id": "CT HB 5042",
+                    "state": "CT",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "CT HB 5873",
+                    "state": "CT",
+                    "subject": "Disability voting"
+                },
+                {
+                    "bill_id": "CT HB 5874",
+                    "state": "CT",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "CT HB 6325",
+                    "state": "CT",
+                    "subject": "Absentee voting",
+                    "status":"Moving", "notes": "Add voter ID requirements to the mail ballot process, restrict assistance in returning ballots, bar election officials from affirmatively mailing out ballot applications, and limit or eliminate mail ballot drop boxes."
+                },
+                {
+                    "bill_id": "CT HB 6326",
+                    "state": "CT",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "CT SB 478",
+                    "state": "CT",
+                    "subject": "Election day registration"
+                },
+                {
+                    "bill_id": "CT SB 795",
+                    "state": "CT",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "CT SB 798",
+                    "state": "CT",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "CT SB 800",
+                    "state": "CT",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "CT SB 802",
+                    "state": "CT",
+                    "subject": "Absentee voting; Voter ID"
+                }
+            ]
+        },
+        "FL": {
+            "suppression": [
+                {
+                    "bill_id": "FL HB 7041",
+                    "state": "FL",
+                    "subject": "Absentee voting; Voter registration"
+                },
+                {
+                    "bill_id": "FL SB 656",
+                    "state": "FL",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "FL SB 90",
+                    "state": "FL",
+                    "subject": "Absentee voting",
+                    "status":"Moving", 
+                    "notes": "Targets the state’s absentee voting process. The bill would ban ballot drop boxes, limit assistance with ballot delivery to immediate family members, and shorten the length of time that a person can stay on the absentee voter list."
+                }
+            ]
+        },
+        "GA": {
+            "suppression": [
+                {
+                    "bill_id": "GA HB 227",
+                    "state": "GA",
+                    "subject": "Absentee voting; Voter ID"
+                },
+                {
+                    "bill_id": "GA HB 267",
+                    "state": "GA",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "GA HB 270",
+                    "state": "GA",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "GA HB 325",
+                    "state": "GA",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "GA HB 365",
+                    "state": "GA",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "GA HB 366",
+                    "state": "GA",
+                    "subject": "Automatic voter registration"
+                },
+                {
+                    "bill_id": "GA HB 494",
+                    "state": "GA",
+                    "subject": "Absentee voting; Early voting; Voter ID"
+                },
+                {
+                    "bill_id": "GA HB 507",
+                    "state": "GA",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "GA HB 512",
+                    "state": "GA",
+                    "subject": "Early voting"
+                },
+                {
+                    "bill_id": "GA HB 531",
+                    "state": "GA",
+                    "subject": "Absentee voting; Early voting; Voter ID; Provisional ballots"
+                },
+                {
+                    "bill_id": "GA HB 537",
+                    "state": "GA",
+                    "subject": "Absentee voting; Voter ID"
+                },
+                {
+                    "bill_id": "GA SB 175",
+                    "state": "GA",
+                    "subject": "Absentee voting; Early voting; Voter ID"
+                },
+                {
+                    "bill_id": "GA SB 177",
+                    "state": "GA",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "GA SB 178",
+                    "state": "GA",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "GA SB 202",
+                    "state": "GA",
+                    "subject": "Absentee voting; Early voting; Provisional ballots",
+                    "status": "Passed",
+                    "notes": "SB 202 limits absentee voting by requiring voters to provide a state identification number or photocopy of an identifying document with their absentee ballot application, barring election officials from affirmatively sending out ballot applications, giving voters less time to apply for an absentee ballot, and sharply restricting the availability and hours of drop boxes. It also effectively reduces early voting in many counties by standardizing early voting days and hours. The bill affirmatively sanctions “mass challenges” to voter eligibility, meaning that one person can come to a county clerk’s office and seek to have an unlimited number of voters removed from the voter rolls for being ineligible (though such efforts can violate the National Voter Registration Act). In one particularly cruel provision, SB 202 criminalizes the act of giving snacks or water to voters waiting in line at polling places"
+                },
+                {
+                    "bill_id": "GA SB 232",
+                    "state": "GA",
+                    "subject": "Absentee voting; Voter ID"
+                },
+                {
+                    "bill_id": "GA SB 241",
+                    "state": "GA",
+                    "subject": "Absentee voting; Polling places; Voter ID"
+                },
+                {
+                    "bill_id": "GA SB 29",
+                    "state": "GA",
+                    "subject": "Absentee voting; Voter ID"
+                },
+                {
+                    "bill_id": "GA SB 67",
+                    "state": "GA",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "GA SB 68",
+                    "state": "GA",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "GA SB 69",
+                    "state": "GA",
+                    "subject": "Automatic voter registration"
+                },
+                {
+                    "bill_id": "GA SB 70",
+                    "state": "GA",
+                    "subject": "Voter registration"
+                },
+                {
+                    "bill_id": "GA SB 71",
+                    "state": "GA",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "GA SB 73",
+                    "state": "GA",
+                    "subject": "Absentee voting"
+                }
+            ]
+        },
+        "HI": {
+            "suppression": [
+                {
+                    "bill_id": "HI HB 1262",
+                    "state": "HI",
+                    "subject": "Absentee voting; Purges"
+                },
+                {
+                    "bill_id": "HI HB 750",
+                    "state": "HI",
+                    "subject": "Election day registration"
+                },
+                {
+                    "bill_id": "HI HB 789",
+                    "state": "HI",
+                    "subject": "Absentee voting"
+                }
+            ]
+        },
+        "IA": {
+            "suppression": [
+                {
+                    "bill_id": "IA HF 590/IA HSB 213",
+                    "state": "IA",
+                    "subject": "Absentee voting; Early voting; Purges"
+                },
+                {
+                    "bill_id": "IA SF 115",
+                    "state": "IA",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "IA SF 413/IA SSB 1199",
+                    "state": "IA",
+                    "subject": "Absentee voting; Early voting; Purges; Voter registration",
+                    "status": "Passed",
+                    "notes": "risks flawed voter purges by moving voters to inactive status every time they miss a federal election, requiring Iowa to use U.S. Postal Service change-of-address data for list maintenance, and threatening county auditors with criminal prosecution for not abiding by voter roll purge practices. Restricts access to absentee voting by giving voters less time to apply for absentee ballots, barring local officials from affirmatively sending out absentee ballot applications, limiting election officials’ discretion to provide ballot drop boxes, and further restricting who can assist an absentee voter in returning their ballot. It also restricts early voting by shortening the early voting period by nine days and limiting election officials’ discretion to offer additional early voting locations. And it rolls back Election Day voting by requiring polls to close an hour earlier than they previously had and reducing the amount of paid time off employers must give people to go vote."
+                },
+                {
+                    "bill_id": "IA SF 91",
+                    "state": "IA",
+                    "subject": "Polling Places; Voting PTO"
+                }
+            ]
+        },
+        "ID": {
+            "suppression": [
+                {
+                    "bill_id": "ID HB 105",
+                    "state": "ID",
+                    "subject": "Other: presidential electors"
+                },
+                {
+                    "bill_id": "ID HB 219",
+                    "state": "ID",
+                    "subject": "Student voting; Voter ID; Voter registration"
+                },
+                {
+                    "bill_id": "ID HB 255",
+                    "state": "ID",
+                    "subject": "Student voting; Voter ID; Voter registration"
+                },
+                {
+                    "bill_id": "ID HB 290",
+                    "state": "ID",
+                    "subject": "Absentee voting",
+                    "status":"Moving", "notes": "Add voter ID requirements to the mail ballot process, restrict assistance in returning ballots, bar election officials from affirmatively mailing out ballot applications, and limit or eliminate mail ballot drop boxes."
+                },
+                {
+                    "bill_id": "ID HB 344",
+                    "state": "ID",
+                    "subject": "Voter ID; Student voting"
+                },
+                {
+                    "bill_id": "ID SB 1070",
+                    "state": "ID",
+                    "subject": "Absentee voting",
+                    "status":"Moving", "notes": "Add voter ID requirements to the mail ballot process, restrict assistance in returning ballots, bar election officials from affirmatively mailing out ballot applications, and limit or eliminate mail ballot drop boxes."
+                },
+                {
+                    "bill_id": "ID SB 1166",
+                    "state": "ID",
+                    "subject": "Election day registration; Provisional ballots; Same day registration; Voter ID"
+                }
+            ]
+        },
+        "IL": {
+            "suppression": [
+                {
+                    "bill_id": "IL HB 1902",
+                    "state": "IL",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "IL HB 1920",
+                    "state": "IL",
+                    "subject": "Purges"
+                },
+                {
+                    "bill_id": "IL HB 1930",
+                    "state": "IL",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "IL HB 1973",
+                    "state": "IL",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "IL HB 2445",
+                    "state": "IL",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "IL HB 2459",
+                    "state": "IL",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "IL HB 2460",
+                    "state": "IL",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "IL HB 2461",
+                    "state": "IL",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "IL HB 2599",
+                    "state": "IL",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "IL HB 2605",
+                    "state": "IL",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "IL HB 2884",
+                    "state": "IL",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "IL HB 3007",
+                    "state": "IL",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "IL SB 1628",
+                    "state": "IL",
+                    "subject": "Polling places"
+                }
+            ]
+        },
+        "IN": {
+            "suppression": [
+                {
+                    "bill_id": "IN SB 353",
+                    "state": "IN",
+                    "subject": "Absentee voting",
+                    "status": "Moving", "notes": "Add voter ID requirements to the mail ballot process, restrict assistance in returning ballots, bar election officials from affirmatively mailing out ballot applications, and limit or eliminate mail ballot drop boxes."
+                },
+                {
+                    "bill_id": "IN SB 398",
+                    "state": "IN",
+                    "subject": "Absentee voting",
+                    "status": "Moving", "notes": "Add voter ID requirements to the mail ballot process, restrict assistance in returning ballots, bar election officials from affirmatively mailing out ballot applications, and limit or eliminate mail ballot drop boxes."
+                }
+            ]
+        },
+        "KS": {
+            "suppression": [
+                {
+                    "bill_id": "KS HB 2054",
+                    "state": "KS",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "KS HB 2319",
+                    "state": "KS",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "KS SB 292",
+                    "state": "KS",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "KS SB 35",
+                    "state": "KS",
+                    "subject": "Absentee voting"
+                }
+            ]
+        },
+        "KY": {
+            "suppression": [
+                {
+                    "bill_id": "KY HB 150",
+                    "state": "KY",
+                    "subject": "Disability access"
+                },
+                {
+                    "bill_id": "KY HB 232",
+                    "state": "KY",
+                    "subject": "Criminal disenfranchisement"
+                },
+                {
+                    "bill_id": "KY HB 574",
+                    "state": "KY",
+                    "subject": "Absentee voting; Disability access; Polling places",
+                    "status": "Moving", 
+                    "notes": "Modify or eliminate protections against polling place closures and consolidations (which force voters to travel farther to cast their ballots)."
+                },
+                {
+                    "bill_id": "KY HB 586",
+                    "state": "KY",
+                    "subject": "Early voting"
+                },
+                {
+                    "bill_id": "KY SB 259",
+                    "state": "KY",
+                    "subject": "Absentee voting; Disability access; Polling places"
+                },
+                {
+                    "bill_id": "KY SB 271",
+                    "state": "KY",
+                    "subject": "Polling places"
+                }
+            ]
+        },
+        "LA": {
+            "suppression": [
+                {
+                    "bill_id": "LA HB 167",
+                    "state": "LA",
+                    "subject": "Purges"
+                },
+                {
+                    "bill_id": "LA SB 63",
+                    "state": "LA",
+                    "subject": "Absentee voting"
+                }
+            ]
+        },
+        "MA": {
+            "suppression": [
+                {
+                    "bill_id": "MA HD 1349",
+                    "state": "MA",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "MA HD 1393",
+                    "state": "MA",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "MA HD 1536",
+                    "state": "MA",
+                    "subject": "Disability Access",
+                    "notes": "This bill would repeal a pro-voter provision related to registration assistance for voters with disabilities, which state practitioners inform us is no longer actually in use."
+                },
+                {
+                    "bill_id": "MA HD 2559",
+                    "state": "MA",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "MA HD 2703",
+                    "state": "MA",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "MA HD 503",
+                    "state": "MA",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "MA HD 642",
+                    "state": "MA",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "MA SD 1002*",
+                    "state": "MA",
+                    "subject": "Disability Access",
+                    "notes": "This bill would repeal a pro-voter provision, related to registration assistance for voters with disabilities, which state practitioners inform us is no longer actually in use."
+                },
+                {
+                    "bill_id": "MA SD 1096",
+                    "state": "MA",
+                    "subject": "Absentee voting"
+                }
+            ]
+        },
+        "MD": {
+            "suppression": [
+                {
+                    "bill_id": "MD HB 1145",
+                    "state": "MD",
+                    "subject": "Absentee voting; Voter ID"
+                },
+                {
+                    "bill_id": "MD HB 690",
+                    "state": "MD",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "MD HB 694",
+                    "state": "MD",
+                    "subject": "Criminal disenfranchisement"
+                },
+                {
+                    "bill_id": "MD HB 955",
+                    "state": "MD",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "MD SB 340",
+                    "state": "MD",
+                    "subject": "Criminal disenfranchisement"
+                },
+                {
+                    "bill_id": "MD SB 36",
+                    "state": "MD",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "MD SB 838",
+                    "state": "MD",
+                    "subject": "Voter ID"
+                }
+            ]
+        },
+        "ME": {
+            "suppression": [
+                {
+                    "bill_id": "ME HP 174",
+                    "state": "ME",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "ME HP 402",
+                    "state": "ME",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "ME HP 798",
+                    "state": "ME",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "ME SP 360",
+                    "state": "ME",
+                    "subject": "Absentee voting; Criminal disenfranchisement; Voter ID"
+                }
+            ]
+        },
+        "MI": {
+            "suppression": [
+                {
+                    "bill_id": "MI HB 4127",
+                    "state": "MI",
+                    "subject": "Purges",
+                    "notes": "Expands voter purge practices in ways that risk improper removals."
+                },
+                {
+                    "bill_id": "MI HB 4128",
+                    "state": "MI",
+                    "subject": "Purges",
+                    "notes": "Expands voter purge practices in ways that risk improper removals."
+                },
+                {
+                    "bill_id": "MI HB 4134",
+                    "state": "MI",
+                    "subject": "Polling places",
+                    "notes": "Modify or eliminate protections against polling place closures and consolidations (which force voters to travel farther to cast their ballots)."
+                },
+                {
+                    "bill_id": "MI SB 273",
+                    "state": "MI",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "MI SB 285",
+                    "state": "MI",
+                    "subject": "Absentee voting; Voter ID"
+                },
+                {
+                    "bill_id": "MI SB 286",
+                    "state": "MI",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "MI SB 287",
+                    "state": "MI",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "MI SB 303",
+                    "state": "MI",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "MI SB 304",
+                    "state": "MI",
+                    "subject": "Provisional ballots"
+                },
+                {
+                    "bill_id": "MI SB 308",
+                    "state": "MI",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "MI SB 310",
+                    "state": "MI",
+                    "subject": "Absentee voting"
+                }
+            ]
+        },
+        "MN": {
+            "suppression": [
+                {
+                    "bill_id": "MN HF 1302",
+                    "state": "MN",
+                    "subject": "Absentee voting; Early voting; Election Day Registration; Voter ID"
+                },
+                {
+                    "bill_id": "MN HF 1518",
+                    "state": "MN",
+                    "subject": "Absentee voting; Disability access; Provisional ballots"
+                },
+                {
+                    "bill_id": "MN HF 211",
+                    "state": "MN",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "MN HF 2335",
+                    "state": "MN",
+                    "subject": "Provisional ballots"
+                },
+                {
+                    "bill_id": "MN HF 293",
+                    "state": "MN",
+                    "subject": "Voter ID; Absentee voting"
+                },
+                {
+                    "bill_id": "MN HF 365",
+                    "state": "MN",
+                    "subject": "Absentee Voting"
+                },
+                {
+                    "bill_id": "MN SF 1235",
+                    "state": "MN",
+                    "subject": "Absentee voting; Early Voting; Election day registration; Voter ID"
+                },
+                {
+                    "bill_id": "MN SF 1422",
+                    "state": "MN",
+                    "subject": "Election day registration"
+                },
+                {
+                    "bill_id": "MN SF 1515",
+                    "state": "MN",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "MN SF 1600",
+                    "state": "MN",
+                    "subject": "Absentee voting; Disability access"
+                },
+                {
+                    "bill_id": "MN SF 173",
+                    "state": "MN",
+                    "subject": "Voter ID",
+                    "notes": "Tighten voter ID requirements"
+                },
+                {
+                    "bill_id": "MN SF 179",
+                    "state": "MN",
+                    "subject": "Election day registration"
+                },
+                {
+                    "bill_id": "MN SF 5",
+                    "state": "MN",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "MN SF 716",
+                    "state": "MN",
+                    "subject": "Absentee voting"
+                }
+            ]
+        },
+        "MO": {
+            "suppression": [
+                {
+                    "bill_id": "MO HB 1065",
+                    "state": "MO",
+                    "subject": "Absentee voting; Provisional ballots; Voter registration; Voter ID",
+                    "status": "Moving", 
+                    "notes": "Tighten voter ID requirements"
+                },
+                {
+                    "bill_id": "MO HB 1196",
+                    "state": "MO",
+                    "subject": "Purges; Voter ID; Voter registration"
+                },
+                {
+                    "bill_id": "MO HB 1362",
+                    "state": "MO",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "MO HB 334",
+                    "state": "MO",
+                    "subject": "Early voting; Voter ID; Provisional ballots",
+                    "notes": "Tighten voter ID requirements"
+                },
+                {
+                    "bill_id": "MO HB 738",
+                    "state": "MO",
+                    "subject": "Absentee voting; Provisional ballots; Voter ID; Disability access",
+                    "status": "Moving", 
+                    "notes": "Tighten voter ID requirements"
+                },
+                {
+                    "bill_id": "MO HB 815",
+                    "state": "MO",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "MO HJR 62",
+                    "state": "MO",
+                    "subject": "Absentee voting; Voter ID"
+                },
+                {
+                    "bill_id": "MO SB 14",
+                    "state": "MO",
+                    "subject": "Early voting; Voter ID"
+                },
+                {
+                    "bill_id": "MO SB 282",
+                    "state": "MO",
+                    "subject": "Absentee voting; Voter ID"
+                }
+            ]
+        },
+        "MS": {
+            "suppression": [
+                {
+                    "bill_id": "MS HB 4",
+                    "state": "MS",
+                    "subject": "Purges"
+                },
+                {
+                    "bill_id": "MS HB 543",
+                    "state": "MS",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "MS HB 571",
+                    "state": "MS",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "MS HB 586",
+                    "state": "MS",
+                    "subject": "Purges"
+                },
+                {
+                    "bill_id": "MS HB 696",
+                    "state": "MS",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "MS HB 728",
+                    "state": "MS",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "MS HB 765",
+                    "state": "MS",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "MS SB 2014",
+                    "state": "MS",
+                    "subject": "Provisional Ballots"
+                },
+                {
+                    "bill_id": "MS SB 2016",
+                    "state": "MS",
+                    "subject": "Purges"
+                },
+                {
+                    "bill_id": "MS SB 2118",
+                    "state": "MS",
+                    "subject": "Absentee voting; Student voting"
+                },
+                {
+                    "bill_id": "MS SB 2254",
+                    "state": "MS",
+                    "subject": "Voter registration"
+                },
+                {
+                    "bill_id": "MS SB 2577",
+                    "state": "MS",
+                    "subject": "Purges"
+                },
+                {
+                    "bill_id": "MS SB 2588",
+                    "state": "MS",
+                    "subject": "Purges"
+                }
+            ]
+        },
+        "MT": {
+            "suppression": [
+                {
+                    "bill_id": "MT HB 176",
+                    "state": "MT",
+                    "subject": "Election day registration",
+                    "notes": "Limits or bans Election Day registration."
+                },
+                {
+                    "bill_id": "MT HB 406",
+                    "state": "MT",
+                    "subject": "Absentee voting",
+                    "status": "Moving", "notes": "Add voter ID requirements to the mail ballot process, restrict assistance in returning ballots, bar election officials from affirmatively mailing out ballot applications, and limit or eliminate mail ballot drop boxes."
+                },
+                {
+                    "bill_id": "MT HB 455",
+                    "state": "MT",
+                    "subject": "Absentee voting; Early voting; Disability access; Military voting; Purges; Voter ID"
+                },
+                {
+                    "bill_id": "MT SB 196",
+                    "state": "MT",
+                    "subject": "Polling places",
+                    "notes": "Modify or eliminate protections against polling place closures and consolidations (which force voters to travel farther to cast their ballots)."
+                }
+            ]
+        },
+        "NC": {
+            "suppression": [
+                {
+                    "bill_id": "NC SB 326",
+                    "state": "NC",
+                    "subject": "Absentee voting"
+                }
+            ]
+        },
+        "ND": {
+            "suppression": [
+                {
+                    "bill_id": "ND HB 1253",
+                    "state": "ND",
+                    "subject": "Absentee voting",
+                    "status": "Moving", "notes": "Add voter ID requirements to the mail ballot process, restrict assistance in returning ballots, bar election officials from affirmatively mailing out ballot applications, and limit or eliminate mail ballot drop boxes."
+                },
+                {
+                    "bill_id": "ND HB 1289",
+                    "state": "ND",
+                    "subject": "Voter registration"
+                },
+                {
+                    "bill_id": "ND HB 1312",
+                    "state": "ND",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "ND HB 1373",
+                    "state": "ND",
+                    "subject": "Early voting"
+                },
+                {
+                    "bill_id": "ND SB 2160",
+                    "state": "ND",
+                    "subject": "Absentee voting"
+                }
+            ]
+        },
+        "NE": {
+            "suppression": [
+                {
+                    "bill_id": "NE LB 590",
+                    "state": "NE",
+                    "subject": "Absentee voting; early voting",
+                    "status": "Moving", "notes": "Add voter ID requirements to the mail ballot process, restrict assistance in returning ballots, bar election officials from affirmatively mailing out ballot applications, and limit or eliminate mail ballot drop boxes."
+                },
+                {
+                    "bill_id": "NE LR 3CA",
+                    "state": "NE",
+                    "subject": "Voter ID"
+                }
+            ]
+        },
+        "NH": {
+            "suppression": [
+                {
+                    "bill_id": "NH HB 292",
+                    "state": "NH",
+                    "subject": "Absentee voting; Voter ID",
+                    "status": "Moving", 
+                    "notes": "Tighten voter ID requirements"
+                },
+                {
+                    "bill_id": "NH HB 327",
+                    "state": "NH",
+                    "subject": "Voter ID; Early voting",
+                    "notes": "Tighten voter ID requirements"
+                },
+                {
+                    "bill_id": "NH HB 362",
+                    "state": "NH",
+                    "subject": "Student voting; Voter registration"
+                },
+                {
+                    "bill_id": "NH HB 429",
+                    "state": "NH",
+                    "subject": "Voter ID; Student voting",
+                    "notes": "Tighten voter ID requirements"
+                },
+                {
+                    "bill_id": "NH HB 523",
+                    "state": "NH",
+                    "subject": "Election day registration",
+                    "notes": "Limits or bans Election Day registration."
+                },
+                {
+                    "bill_id": "NH HB 531",
+                    "state": "NH",
+                    "subject": "Voter Registration",
+                    "notes": "Limits or bans Election Day registration."
+                },
+                {
+                    "bill_id": "NH HB 535",
+                    "state": "NH",
+                    "subject": "Election day registration; Voter registration",
+                    "notes": "Limits or bans Election Day registration."
+                },
+                {
+                    "bill_id": "NH HB 86",
+                    "state": "NH",
+                    "subject": "Election day registration; Student voting",
+                    "notes": "Limits or bans Election Day registration."
+                },
+                {
+                    "bill_id": "NH SB 31",
+                    "state": "NH",
+                    "subject": "Purges",
+                    "notes": "Expands voter purge practices in ways that risk improper removals."
+                },
+                {
+                    "bill_id": "NH SB 54",
+                    "state": "NH",
+                    "subject": "Absentee voting",
+                    "status": "Moving", "notes": "Add voter ID requirements to the mail ballot process, restrict assistance in returning ballots, bar election officials from affirmatively mailing out ballot applications, and limit or eliminate mail ballot drop boxes."
+                }
+            ],
+            "summary" : [
+                "Two bills target Election Day registration: NH HB 86 would eliminate it altogether, while NH HB 523 would require that voters who register on Election Day with a qualified voter affidavit or sworn statement have their photograph taken at the time of registration.",
+                "Two bills take aim at student voters. NH HB 429 would eliminate the use of college and university ID cards as valid photo ID, while NH HB 362 would remove the ability of students to use their educational institution as their place of residence for voting purposes.",
+                "Two bills would make voter registration more challenging by eliminating the ability of voters without valid identification to establish proof of residency by qualified affidavit (NH HB 531, NH HB 535).",
+                "One purge bill would direct the removal of voters from the rolls based on third-party information regarding change of residence, a practice the National Voter Registration Act does not permit (NH SB 31).",
+                "Three bills would require more identification information at various points in the absentee voting process (NH HB 292, NH SB 54, NH HB 327)."
+            ]
+        },
+        "NJ": {
+            "suppression": [
+                {
+                    "bill_id": "NJ AB 4626",
+                    "state": "NJ",
+                    "subject": "Absentee Voting"
+                },
+                {
+                    "bill_id": "NJ AB 5099",
+                    "state": "NJ",
+                    "subject": "Purges"
+                },
+                {
+                    "bill_id": "NJ ACR 197",
+                    "state": "NJ",
+                    "subject": "Absentee Voting"
+                },
+                {
+                    "bill_id": "NJ SB 2936",
+                    "state": "NJ",
+                    "subject": "Purges"
+                },
+                {
+                    "bill_id": "NJ SB 3025",
+                    "state": "NJ",
+                    "subject": "Automatic voter registration"
+                },
+                {
+                    "bill_id": "NJ SB 3391",
+                    "state": "NJ",
+                    "subject": "Absentee Voting"
+                },
+                {
+                    "bill_id": "NJ SB 3393",
+                    "state": "NJ",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "NJ SB 3395",
+                    "state": "NJ",
+                    "subject": "Purges"
+                },
+                {
+                    "bill_id": "NJ SCR 136",
+                    "state": "NJ",
+                    "subject": "Absentee Voting"
+                }
+            ]
+        },
+        "NM": {
+            "suppression": [
+                {
+                    "bill_id": "NM SB 48",
+                    "state": "NM",
+                    "subject": "Absentee voting; Election day registration"
+                }
+            ]
+        },
+        "NV": {
+            "suppression": [
+                {
+                    "bill_id": "NV AB 134",
+                    "state": "NV",
+                    "subject": "Absentee voting; Disability access"
+                },
+                {
+                    "bill_id": "NV AB 137",
+                    "state": "NV",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "NV AB 163",
+                    "state": "NV",
+                    "subject": "Absentee voting; Early voting; Election day registration; Same Day Registration; Voter ID"
+                },
+                {
+                    "bill_id": "NV AB 321",
+                    "state": "NV",
+                    "subject": "Absentee voting; Voter ID"
+                },
+                {
+                    "bill_id": "NV SB 225",
+                    "state": "NV",
+                    "subject": "Absentee voting; Voter ID"
+                },
+                {
+                    "bill_id": "NV SB 301",
+                    "state": "NV",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "NV SB 84",
+                    "state": "NV",
+                    "subject": "Polling places"
+                }
+            ]
+        },
+        "NY": {
+            "suppression": [
+                {
+                    "bill_id": "NY AB 4326",
+                    "state": "NY",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "NY AB 4569",
+                    "state": "NY",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "NY AB 4901",
+                    "state": "NY",
+                    "subject": "Voter registration"
+                },
+                {
+                    "bill_id": "NY AB 4929",
+                    "state": "NY",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "NY AB 4969",
+                    "state": "NY",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "NY AB 5783",
+                    "state": "NY",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "NY SB 1540",
+                    "state": "NY",
+                    "subject": "Criminal disenfranchisement"
+                },
+                {
+                    "bill_id": "NY SB 1805",
+                    "state": "NY",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "NY SB 1853",
+                    "state": "NY",
+                    "subject": "Voter registration"
+                },
+                {
+                    "bill_id": "NY SB 264",
+                    "state": "NY",
+                    "subject": "Absentee voting",
+                    "status": "Moving", "notes": "Add voter ID requirements to the mail ballot process, restrict assistance in returning ballots, bar election officials from affirmatively mailing out ballot applications, and limit or eliminate mail ballot drop boxes."
+                },
+                {
+                    "bill_id": "NY SB 3625",
+                    "state": "NY",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "NY SB 3820",
+                    "state": "NY",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "NY SB 4447",
+                    "state": "NY",
+                    "subject": "Voter registration"
+                }
+            ]
+        },
+        "OK": {
+            "suppression": [
+                {
+                    "bill_id": "OK HB 2842",
+                    "state": "OK",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "OK HB 2847",
+                    "state": "OK",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "OK SB 556",
+                    "state": "OK",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "OK SB 579",
+                    "state": "OK",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "OK SB 714",
+                    "state": "OK",
+                    "subject": "Absentee voting",
+                    "status": "Moving", "notes": "Add voter ID requirements to the mail ballot process, restrict assistance in returning ballots, bar election officials from affirmatively mailing out ballot applications, and limit or eliminate mail ballot drop boxes."
+                },
+                {
+                    "bill_id": "OK SJR 19",
+                    "state": "OK",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "OK SJR 25",
+                    "state": "OK",
+                    "subject": "Voter ID; Absentee voting"
+                }
+            ]
+        },
+        "OR": {
+            "suppression": [
+                {
+                    "bill_id": "OR HB 3196",
+                    "state": "OR",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "OR HB 3299",
+                    "state": "OR",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "OR SB 694",
+                    "state": "OR",
+                    "subject": "Absentee voting"
+                }
+            ]
+        },
+        "PA": {
+            "suppression": [
+                {
+                    "bill_id": "PA HB 143",
+                    "state": "PA",
+                    "subject": "Purges"
+                },
+                {
+                    "bill_id": "PA HB 25",
+                    "state": "PA",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "PA HB 470",
+                    "state": "PA",
+                    "subject": "Absentee voting; Voter registration"
+                },
+                {
+                    "bill_id": "PA HB 853",
+                    "state": "PA",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "PA HCR 8",
+                    "state": "PA",
+                    "subject": "Other"
+                },
+                {
+                    "bill_id": "PA HR 7",
+                    "state": "PA",
+                    "subject": "Other"
+                },
+                {
+                    "bill_id": "PA SB 322",
+                    "state": "PA",
+                    "subject": "Absentee Voting"
+                },
+                {
+                    "bill_id": "PA SB 402",
+                    "state": "PA",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "PA SB 422",
+                    "state": "PA",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "PA SCR 10",
+                    "state": "PA",
+                    "subject": "Other"
+                },
+                {
+                    "bill_id": "PA SR 8",
+                    "state": "PA",
+                    "subject": "Other"
+                },
+                {
+                    "bill_id": "PA SR 9",
+                    "state": "PA",
+                    "subject": "Other"
+                }
+            ]
+        },
+        "RI": {
+            "suppression": [
+                {
+                    "bill_id": "RI HB 5896",
+                    "state": "RI",
+                    "subject": "Purges"
+                },
+                {
+                    "bill_id": "RI HB 6003",
+                    "state": "RI",
+                    "subject": "Purges"
+                },
+                {
+                    "bill_id": "RI HB 6007",
+                    "state": "RI",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "RI HB 6099",
+                    "state": "RI",
+                    "subject": "Absentee voting; Online voter registration; Voter registration"
+                },
+                {
+                    "bill_id": "RI SB 516",
+                    "state": "RI",
+                    "subject": "Purges"
+                },
+                {
+                    "bill_id": "RI SB 662",
+                    "state": "RI",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "RI SB 666",
+                    "state": "RI",
+                    "subject": "Absentee voting"
+                }
+            ]
+        },
+        "SC": {
+            "suppression": [
+                {
+                    "bill_id": "PA SCR 10",
+                    "state": "PA",
+                    "subject": "Other"
+                },
+                {
+                    "bill_id": "SC HB 3372",
+                    "state": "SC",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "SC HB 3410",
+                    "state": "SC",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "SC HB 3525",
+                    "state": "SC",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "SC HB 3771",
+                    "state": "SC",
+                    "subject": "Polling places"
+                },
+                {
+                    "bill_id": "SC SB 113",
+                    "state": "SC",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "SC SB 236",
+                    "state": "SC",
+                    "subject": "Polling places",
+                    "notes": "Modify or eliminate protections against polling place closures and consolidations (which force voters to travel farther to cast their ballots)."
+                },
+                {
+                    "bill_id": "SC SB 365",
+                    "state": "SC",
+                    "subject": "Purges"
+                }
+            ]
+        },
+        "SD": {
+            "suppression": [
+                {
+                    "bill_id": "SD HB 1126",
+                    "state": "SD",
+                    "subject": "Absentee voting",
+                    "status": "Moving", "notes": "Add voter ID requirements to the mail ballot process, restrict assistance in returning ballots, bar election officials from affirmatively mailing out ballot applications, and limit or eliminate mail ballot drop boxes."
+                },
+                {
+                    "bill_id": "SD HB 1245",
+                    "state": "SD",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "SD SB 116",
+                    "state": "SD",
+                    "subject": "Purges"
+                }
+            ]
+        },
+        "TN": {
+            "suppression": [
+                {
+                    "bill_id": "TN HB 1251",
+                    "state": "TN",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "TN SB 1510",
+                    "state": "TN",
+                    "subject": "Disability access; Early voting"
+                },
+                {
+                    "bill_id": "TN SB 835",
+                    "state": "TN",
+                    "subject": "Absentee voting"
+                }
+            ]
+        },
+        "TX": {
+            "suppression": [
+                {
+                    "bill_id": "TX HB 1026",
+                    "state": "TX",
+                    "subject": "Voter registration"
+                },
+                {
+                    "bill_id": "TX HB 1725",
+                    "state": "TX",
+                    "subject": "Absentee voting",
+                    "status": "Moving", "notes": "Add voter ID requirements to the mail ballot process, restrict assistance in returning ballots, bar election officials from affirmatively mailing out ballot applications, and limit or eliminate mail ballot drop boxes."
+                },
+                {
+                    "bill_id": "TX HB 1822",
+                    "state": "TX",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "TX HB 1924",
+                    "state": "TX",
+                    "subject": "Purges"
+                },
+                {
+                    "bill_id": "TX HB 2253",
+                    "state": "TX",
+                    "subject": "Purges"
+                },
+                {
+                    "bill_id": "TX HB 2263",
+                    "state": "TX",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "TX HB 2265",
+                    "state": "TX",
+                    "subject": "Early voting"
+                },
+                {
+                    "bill_id": "TX HB 2339",
+                    "state": "TX",
+                    "subject": "Purges"
+                },
+                {
+                    "bill_id": "TX HB 2478",
+                    "state": "TX",
+                    "subject": "Absentee voting; Voter ID"
+                },
+                {
+                    "bill_id": "TX HB 2486",
+                    "state": "TX",
+                    "subject": "Voter registration"
+                },
+                {
+                    "bill_id": "TX HB 25",
+                    "state": "TX",
+                    "subject": "Absentee voting",
+                    "status": "Moving", "notes": "Add voter ID requirements to the mail ballot process, restrict assistance in returning ballots, bar election officials from affirmatively mailing out ballot applications, and limit or eliminate mail ballot drop boxes."
+                },
+                {
+                    "bill_id": "TX HB 3066",
+                    "state": "TX",
+                    "subject": "Purges; Voter registration"
+                },
+                {
+                    "bill_id": "TX HB 3080",
+                    "state": "TX",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "TX HB 3274",
+                    "state": "TX",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "TX HB 3281",
+                    "state": "TX",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "TX HB 329",
+                    "state": "TX",
+                    "subject": "Purges; Voter ID"
+                },
+                {
+                    "bill_id": "TX HB 335",
+                    "state": "TX",
+                    "subject": "Purges"
+                },
+                {
+                    "bill_id": "TX HB 3488",
+                    "state": "TX",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "TX HB 3828",
+                    "state": "TX",
+                    "subject": "Purges"
+                },
+                {
+                    "bill_id": "TX HB 3919",
+                    "state": "TX",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "TX HB 3920",
+                    "state": "TX",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "TX HB 3974",
+                    "state": "TX",
+                    "subject": "Purges"
+                },
+                {
+                    "bill_id": "TX HB 4322",
+                    "state": "TX",
+                    "subject": "Minimum standards"
+                },
+                {
+                    "bill_id": "TX HB 4498",
+                    "state": "TX",
+                    "subject": "Voter registration"
+                },
+                {
+                    "bill_id": "TX HB 6",
+                    "state": "TX",
+                    "subject": "Disability access; Absentee voting",
+                    "status": "Moving", "notes": "Add voter ID requirements to the mail ballot process, restrict assistance in returning ballots, bar election officials from affirmatively mailing out ballot applications, and limit or eliminate mail ballot drop boxes."
+                },
+                {
+                    "bill_id": "TX HB 61",
+                    "state": "TX",
+                    "subject": "Absentee voting; Voter registration"
+                },
+                {
+                    "bill_id": "TX HB 895",
+                    "state": "TX",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "TX SB 1111",
+                    "state": "TX",
+                    "subject": "Purges"
+                },
+                {
+                    "bill_id": "TX SB 1114",
+                    "state": "TX",
+                    "subject": "Purges",
+                    "notes": "Expands voter purge practices in ways that risk improper removals."
+                },
+                {
+                    "bill_id": "TX SB 1115",
+                    "state": "TX",
+                    "subject": "Early voting"
+                },
+                {
+                    "bill_id": "TX SB 1215",
+                    "state": "TX",
+                    "subject": "Disability access; Polling places"
+                },
+                {
+                    "bill_id": "TX SB 1235",
+                    "state": "TX",
+                    "subject": "Purges"
+                },
+                {
+                    "bill_id": "TX SB 1340",
+                    "state": "TX",
+                    "subject": "Purges; Voter registration",
+                    "notes": "Expands voter purge practices in ways that risk improper removals."
+                },
+                {
+                    "bill_id": "TX SB 1509",
+                    "state": "TX",
+                    "subject": "Absentee voting; Voter ID"
+                },
+                {
+                    "bill_id": "TX SB 1535",
+                    "state": "TX",
+                    "subject": "Absentee voting; Other"
+                },
+                {
+                    "bill_id": "TX SB 1591",
+                    "state": "TX",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "TX SB 155",
+                    "state": "TX",
+                    "subject": "Purges",
+                    "notes": "Expands voter purge practices in ways that risk improper removals."
+                },
+                {
+                    "bill_id": "TX SB 1607",
+                    "state": "TX",
+                    "subject": "Absentee voting; Early voting; Polling places; Purges; Voter ID; Voter registration"
+                },
+                {
+                    "bill_id": "TX SB 1608",
+                    "state": "TX",
+                    "subject": "Absentee voting; Early voting; Polling places"
+                },
+                {
+                    "bill_id": "TX SB 1609",
+                    "state": "TX",
+                    "subject": "Voter ID; Absentee voting"
+                },
+                {
+                    "bill_id": "TX SB 1610",
+                    "state": "TX",
+                    "subject": "Voter registration"
+                },
+                {
+                    "bill_id": "TX SB 1613",
+                    "state": "TX",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "TX SB 1664",
+                    "state": "TX",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "TX SB 1700",
+                    "state": "TX",
+                    "subject": "Purges"
+                },
+                {
+                    "bill_id": "TX SB 1731",
+                    "state": "TX",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "TX SB 208",
+                    "state": "TX",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "TX SB 570",
+                    "state": "TX",
+                    "subject": "Purges"
+                },
+                {
+                    "bill_id": "TX SB 7",
+                    "state": "TX",
+                    "subject": "Absentee voting; Disability access; Early voting; Polling places; Purges",
+                    "status": "Moving", 
+                    "notes": "Already passed out of committee and would implement a wide range of restrictions on voting access. SB 7 seeks to limit mail voting by enacting comprehensive restrictions, including prohibitions on state or local election officials sending unsolicited mail ballot applications to voters and on the use of any unstaffed drop boxes. It would limit early voting hours. It would increase the risk of long lines on Election Day by eliminating the use of certain “mobile” and drive-through polling places and changing the statutory standards that guide allocation of polling places and election equipment. SB 7 would also increase voter purges by threatening local election officials with financial penalties for not purging voters. It targets voters with disabilities by limiting curbside voting, placing more restrictions on voter assistance, and requiring voters who want to vote by mail on the basis of a disability to provide written documentation of their disability. And SB 7 would reduce protections against voter intimidation by rolling back common-sense checks on poll watchers (like the current prohibition on poll watchers using devices to record voters)."
+                },
+                {
+                    "bill_id": "TX SJR 51",
+                    "state": "TX",
+                    "subject": "Absentee voting"
+                }
+            ]
+        },
+        "UT": {
+            "suppression": [
+                {
+                    "bill_id": "UT HB 12",
+                    "state": "UT",
+                    "subject": "Purges",
+                    "status": "Passed",
+                    "notes": " The bill requires county clerks to cross-reference all death certificates against voter registration rolls and remove the names of dead voters within 10 days. Because the law does not require any notice to the voters being removed, does not require auditing of the source data, and does not specify how many data points must be matched, it creates a risk that county clerks will remove the wrong names from their voter registration rolls."
+                }
+            ]
+        },
+        "VA": {
+            "suppression": [
+                {
+                    "bill_id": "VA HB 1758",
+                    "state": "VA",
+                    "subject": "Purges "
+                },
+                {
+                    "bill_id": "VA HB 1970",
+                    "state": "VA",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "VA HB 2205",
+                    "state": "VA",
+                    "subject": "Same day registration"
+                },
+                {
+                    "bill_id": "VA HB 2209",
+                    "state": "VA",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "VA SB 1118",
+                    "state": "VA",
+                    "subject": "Voter registration"
+                },
+                {
+                    "bill_id": "VA SB 1422",
+                    "state": "VA",
+                    "subject": "Purges"
+                },
+                {
+                    "bill_id": "VA SB 1459",
+                    "state": "VA",
+                    "subject": "Absentee voting; Voter ID"
+                }
+            ]
+        },
+        "WA": {
+            "suppression": [
+                {
+                    "bill_id": "WA HB 1377",
+                    "state": "WA",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "WA SB 5143",
+                    "state": "WA",
+                    "subject": "Absentee voting; Early voting; Voter ID"
+                },
+                {
+                    "bill_id": "WA SB 5434",
+                    "state": "WA",
+                    "subject": "Voter registration"
+                }
+            ]
+        },
+        "WI": {
+            "suppression": [
+                {
+                    "bill_id": "WI AB 177",
+                    "state": "WI",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "WI AB 180",
+                    "state": "WI",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "WI SB 179",
+                    "state": "WI",
+                    "subject": "Voter registration",
+                    "notes": "Makes the voter registration process more difficult"
+                },
+                {
+                    "bill_id": "WI SB 180",
+                    "state": "WI",
+                    "subject": "Disability access; Provisional ballots; Voter registration",
+                    "notes": "Makes the voter registration process more difficult"
+                },
+                {
+                    "bill_id": "WI SB 204",
+                    "state": "WI",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "WI SB 206",
+                    "state": "WI",
+                    "subject": "Absentee voting"
+                }
+            ]
+        },
+        "WV": {
+            "suppression": [
+                {
+                    "bill_id": "WV HB 2607",
+                    "state": "WV",
+                    "subject": "Voter ID"
+                },
+                {
+                    "bill_id": "WV HB 2666",
+                    "state": "WV",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "WV SB 516",
+                    "state": "WV",
+                    "subject": "Other"
+                },
+                {
+                    "bill_id": "WV SB 565",
+                    "state": "WV",
+                    "subject": "Absentee voting; Purges",
+                    "status": "Moving", "notes": "Add voter ID requirements to the mail ballot process, restrict assistance in returning ballots, bar election officials from affirmatively mailing out ballot applications, and limit or eliminate mail ballot drop boxes."
+                }
+            ]
+        },
+        "WY": {
+            "suppression": [
+                {
+                    "bill_id": "WY HB 178",
+                    "state": "WY",
+                    "subject": "Voter registration"
+                },
+                {
+                    "bill_id": "WY HB 194",
+                    "state": "WY",
+                    "subject": "Absentee voting"
+                },
+                {
+                    "bill_id": "WY HB 75",
+                    "state": "WY",
+                    "subject": "Voter ID",
+                    "notes": "Tighten voter ID requirements"
+                }
+            ]
+        }
+    }
+}
