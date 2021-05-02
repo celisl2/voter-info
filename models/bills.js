@@ -1,417 +1,479 @@
 const mongoose = require('mongoose');
-const billSchema = new mongoose.Schema({
+
+const statesSchema = new mongoose.Schema({
     AL: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, 
     AK: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, AZ: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, AR: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, CA: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, CO: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, CT: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, DC: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, DE: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, FL: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, GA: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, HI: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, ID: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, IL: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, IN: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, IA: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, KS: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, KY: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, LA: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, ME: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, MD: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, MA: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, MI: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, MN: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, MS: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, MO: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, MT: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, NE: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, NV: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, NH: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, NJ: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, NM: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, NY: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, NC: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, ND: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, OH: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, OK: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, OR: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, PA: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, RI: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, SC: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, SD: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, TN: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, TX: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, UT: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, VT: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, VA: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, WA: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, WV: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, WI: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }, WY: {
-        suppression: [{
+        suppression: { bills: [{
             bill_id: String,
             subject: String,
             status: String,
             notes: String
         }],
-        summary: [String]
+        summary: [String]}, 'state': String,
+    summary: String
     }
 });
-/*
-const statesArray = ["AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DC", "DE", "FL", "GA", "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY"];
-*/
-module.exports = mongoose.model('Bills', billSchema);
+
+const stateSchema = new mongoose.Schema({
+
+    suppression: [{
+        bill_id: String,
+        subject: String,
+        status: String,
+        notes: String
+    }],
+    summary: [String],
+    'state': String,
+}, { collection: 'US_STATES' });
+
+module.exports = mongoose.model('state', stateSchema);

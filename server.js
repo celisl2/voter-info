@@ -1,9 +1,11 @@
 const express = require('express');
 const mongoose = require('mongoose');
+const helmet = require('helmet')
+
 
 require('dotenv').config();
 const app = express();
-//const hasBeenAdded = false;
+app.use(helmet());
 let data = require('./conf/suppress.json');
 
 //connect to mongo db
@@ -14,6 +16,7 @@ mongoose.connect(
         useUnifiedTopology: true
     }
 );
+
 //start up db
 const db = mongoose.connection;
 db.on('error', (error) => {
@@ -21,16 +24,16 @@ db.on('error', (error) => {
 });
 db.once('open', () => {
     console.log('[INFO]: connected to database');
-    if(!process.env.hasBeenAdded) {
+    if(process.env.hasBeenAdded == 'false') {
         console.log('[INFO]: data not yet loaded. Will attempt to import data from json file.');
-
-        db.collection("states").insertOne(data, (err, r) => {
-            if(err) console.error(err);
-            if(r) console.log(r.insertedCount);
-        });
+        
+            db.collection("US_STATES").insertMany(data, (err, r) => {
+                if(err) console.error(err);
+                if(r) console.log(r.insertedCount);
+            });
     } else {
         console.log('[INFO]: data already imported to cloud DB. Prepared to use API');
-    }
+    } 
 })
 
 app.use(express.json());

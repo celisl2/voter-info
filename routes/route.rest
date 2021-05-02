@@ -1,1 +1,7 @@
+#Test get all bills
 GET http://localhost:3000/bills
+###
+
+#TEST get bills by state
+GET http://localhost:3000/bills/SC
+###
