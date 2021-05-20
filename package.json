@@ -5,6 +5,7 @@
   "main": "server.js",
   "scripts": {
     "devStart": "nodemon server.js",
+    "ui": "browser-sync start --config bs-config.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "tailwind:css": "postcss public/styles/tailwind.css -o public/styles/style.css"
   },
@@ -24,6 +25,7 @@
   "dependencies": {
     "autoprefixer": "^10.2.5",
     "axios": "^0.21.1",
+    "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "helmet": "^4.6.0",

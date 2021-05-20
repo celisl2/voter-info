@@ -2,6 +2,7 @@
 .env.test
 .npm
 .gititnore
+.vscode
 
 .DS_Store
 

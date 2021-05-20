@@ -1,6 +1,8 @@
 const express = require('express');
 const router = express.Router();
 const US_STATES = require('../models/bills');
+const axios = require('axios');
+
 
 async function getBillsByState(req, res, next) { 
     console.log(`[INFO]: request is ${req.params.state_id}`);
@@ -22,6 +24,51 @@ async function getBillsByState(req, res, next) {
     }
     next();
 };
+/**
+ * 
+ * https://v3.openstates.org/bills?jurisdiction=wy&session=2021&q=hb178&&include=sponsorships&include=abstracts&include=other_titles&include=other_identifiers&include=actions&include=sources&include=documents&include=versions&include=votes
+ */
+
+function getBillDetails(bills, currentState) {
+    let openStatesUrl = process.env.OPEN_STATES_BASE_URL;
+    let key = process.env.OPEN_STATES_KEY;
+    let billInfo = new Map();
+
+    const headers = {
+        "X-API-KEY": key
+    }
+
+    //get bill names
+    bills.suppression.forEach(bill => {
+        //billNames.push(bill.bill_id);
+        let billName = bill.bill_id.split(' ');
+        billName.shift();
+        let currName = billName.join('');
+        console.log(currName);
+        axios.get(openStatesUrl, {
+            params: {
+                jurisdiction: currentState,
+                session: 2021,
+                include: "sponsorships",
+                include: "abstracts",
+                include: "other_titles",
+                include: "actions",
+                include: "sources",
+                include: "documents",
+                include: "versions",
+                include: "votes",
+                q: currName
+            }, headers
+        }).then((data) => {
+            billInfo.set(bill.bill_id, data);
+            console.log(`[INFO] got data successfuly`)
+        }).catch((err) => {
+            console.error(`[ERROR]: Error retrieving data from openstates AIP: ${err}`);
+        })
+
+    });
+    
+}
 
 router.get('/', async (req, res) => {
     try {
@@ -42,6 +89,7 @@ router.get('/', async (req, res) => {
 });
 
 router.get('/:state_id', getBillsByState ,(req, res) => {
+    getBillDetails(res.bills, req.params.state_id);
     res.json(res.bills);
 });
 

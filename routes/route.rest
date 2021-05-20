@@ -3,5 +3,5 @@ GET http://localhost:3000/bills
 ###
 
 #TEST get bills by state
-GET http://localhost:3000/bills/SC
+GET http://localhost:3000/bills/WY
 ###
